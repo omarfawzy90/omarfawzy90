@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="mailto:omarfawzyy90@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -21,7 +21,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/omarfawzy90/omarfawzy90/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/omarfawzy90/omarfawzy90/snake.svg" alt="Snake animation" />
 
 ###
